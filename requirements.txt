@@ -6,4 +6,5 @@ Video
 Dark Mode
 
 
-Audio 
+Audio
+Graphics 
