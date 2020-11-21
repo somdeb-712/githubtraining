@@ -2,4 +2,5 @@ This is a chat application
 Emoji
 Type option
 Vibrant Colours
-
+Video
+Dark Mode
