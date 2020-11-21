@@ -4,3 +4,6 @@ Type option
 Vibrant Colours
 Video
 Dark Mode
+
+
+Audio 
